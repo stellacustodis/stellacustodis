@@ -20,7 +20,7 @@ Aspiring AI specialist focused on Python for vision generative models.
 
 
 2024  [ETRI Winner of the Fashion-How S5.](https://selectstar.ai/blog/notice/etri-fashion-how-competition/)
- 
+
 ---
 
 ## 📖 Biography
@@ -45,6 +45,13 @@ I'm a passionate AI enthusiast currently specializing in vision generative model
 2023: Started lab life as an undergraduate research intern.
 
 2025: Started Master's degree. Working towards my dream!
+
+---
+
+
+## 🐾 Small Footprints
+
+2025: Visit PyCon KR
 
 ---
 
