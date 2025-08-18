@@ -18,7 +18,9 @@ Aspiring AI specialist focused on Python for vision generative models.
 ## 🏆 Awards
 2023 [ICCAS Winner of the 1st Koh Young  AI Competition](https://www.seoultech.ac.kr/service/info/news/?do=commonview&searchtext=%EC%8A%A4%ED%8F%AC%EC%B8%A0%EA%B3%BC%ED%95%99&searchtype=1&nowpage=1&bnum=3596&bidx=539994&cate=14&profboardidx=)
 
+
 2024  [ETRI Winner of the Fashion-How S5.](https://selectstar.ai/blog/notice/etri-fashion-how-competition/)
+ 
 ---
 
 ## 📖 Biography
