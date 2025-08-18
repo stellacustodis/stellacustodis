@@ -36,7 +36,7 @@ I'm a passionate AI enthusiast currently specializing in vision generative model
 
 2016: Main photo from the annual photo exhibition of the amateur astronomy club "별하늘지기."
 
-2019: Admitted to the Department of  Electrical and Information Engineering at Seoul National University of Science and Technology. (Not Seoul National University! I wanted to go to Seoul National University, but... I made a huge mistake in one subject.)
+2019: Admitted to the Department of  Electrical and Information Engineering at Seoul National University of Science and Technology. *(Not Seoul National University! I hope to enter Seoul National University, but... I made a huge mistake in one subject exam..)*
 
 2019: Winner of the Arduino Competition at Seoul National University of Science and Technology.
 
@@ -45,6 +45,7 @@ I'm a passionate AI enthusiast currently specializing in vision generative model
 2023: Started lab life as an undergraduate research intern.
 
 2025: Started Master's degree. Working towards my dream!
+
 ---
 
 ## 🚀 Projects
