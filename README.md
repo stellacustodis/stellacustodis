@@ -30,8 +30,9 @@ For example:
 I'm a passionate AI enthusiast currently specializing in vision generative models using Python. Eager to contribute to innovative machine learning projects.
 -->
 
-Born in Gangneung, 1999.
-2015-2016: Participated in the two-year science club at the Naro Space Center. First encounter with Python!!.
+1999: Born in Gangneung, Korea
+
+2015-2016: Participated in the two-year science club at the Naro Space Center. First encounter with Python!!. Interseted in RR Lyrae stars.
 
 2016: Main photo from the annual photo exhibition of the amateur astronomy club "별하늘지기."
 
@@ -43,7 +44,7 @@ Born in Gangneung, 1999.
 
 2023: Started lab life as an undergraduate research intern.
 
-2025: Master's degree in Computer Science. Working towards my dream!
+2025: Started Master's degree. Working towards my dream!
 ---
 
 ## 🚀 Projects
