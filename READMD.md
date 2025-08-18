@@ -16,12 +16,9 @@ Aspiring AI specialist focused on Python for vision generative models.
 ---
 
 ## 🏆 Awards
-<!--
-List your awards here, for example:
-- XYZ Competition Winner (2024)
-- ABC Scholarship (2023)
--->
+2023 [ICCAS Winner of the 1st Koh Young  AI Competition](https://www.seoultech.ac.kr/service/info/news/?do=commonview&searchtext=%EC%8A%A4%ED%8F%AC%EC%B8%A0%EA%B3%BC%ED%95%99&searchtype=1&nowpage=1&bnum=3596&bidx=539994&cate=14&profboardidx=)
 
+2024  [ETRI Winner of the Fashion-How S5.](https://selectstar.ai/blog/notice/etri-fashion-how-competition/)
 ---
 
 ## 📖 Biography
@@ -31,6 +28,20 @@ For example:
 I'm a passionate AI enthusiast currently specializing in vision generative models using Python. Eager to contribute to innovative machine learning projects.
 -->
 
+Born in Gangneung, 1999.
+2015-2016: Participated in the two-year science club at the Naro Space Center. First encounter with Python!!.
+
+2016: Main photo from the annual photo exhibition of the amateur astronomy club "별하늘지기."
+
+2019: Admitted to the Department of  Electrical and Information Engineering at Seoul National University of Science and Technology. (Not Seoul National University! I wanted to go to Seoul National University, but... I made a huge mistake in one subject.)
+
+2019: Winner of the Arduino Competition at Seoul National University of Science and Technology.
+
+2020-2022: Served as a tank driver in the 2nd Armored Brigade in Paju.
+
+2023: Started lab life as an undergraduate research intern.
+
+2025: Master's degree in Computer Science. Working towards my dream!
 ---
 
 ## 🚀 Projects
