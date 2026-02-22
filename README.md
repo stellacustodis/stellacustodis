@@ -21,6 +21,7 @@ Aspiring AI specialist focused on Python for vision generative models.
 2024  [ETRI Minister's Award Winner of the Fashion-How S5.](https://selectstar.ai/blog/notice/etri-fashion-how-competition/)
 
 2025  4th place in the segmentation category of the ETRI Autonomous Driving Challenge
+
 ---
 
 ## 📖 Biography
