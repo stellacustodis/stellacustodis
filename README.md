@@ -31,8 +31,8 @@ I am a passionate AI enthusiast and an aspiring AI specialist, focusing heavily 
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stellacustodis&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellacustodis&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=stellacustodis&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=stellacustodis&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </div>
 
 ---
