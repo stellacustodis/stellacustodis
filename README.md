@@ -14,17 +14,41 @@ I am a passionate AI enthusiast and an aspiring AI specialist, focusing heavily 
   <a href="https://www.linkedin.com/in/stellacustodis/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://stellacustodis.github.io/">
+    <img src="https://img.shields.io/badge/Tech_Blog-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tech Blog" />
+  </a>
 </div>
 
 ---
 
-### 🛠️ Top Skills
+### 🛠️ Tech Stack
+
 <div align="center">
+  <strong>Languages</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</div>
+<br>
+<div align="center">
+  <strong>AI & Machine Learning</strong><br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+</div>
+<br>
+<div align="center">
+  <strong>Simulation & Robotics</strong><br>
+  <img src="https://img.shields.io/badge/MuJoCo-000000?style=for-the-badge&logoColor=white" alt="MuJoCo" />
+  <img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Isaac Sim" />
+</div>
+<br>
+<div align="center">
+  <strong>Web & Full-Stack</strong><br>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
 ---
