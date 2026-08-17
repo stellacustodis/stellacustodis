@@ -5,7 +5,12 @@
 ---
 
 ### 🧑‍💻 About Me
-I am a passionate AI enthusiast and an aspiring AI specialist, focusing heavily on **Python** and **Vision Generative Models**. Currently, I am also participating in the **SK AX Bootcamp (SKALA)** to study Full-Stack development. I love tackling complex problems and am constantly eager to contribute to innovative projects.
+I am a passionate AI enthusiast and an aspiring AI specialist, focusing heavily on **Python** and **Vision Generative Models**. Currently, I am also participating in the **SK AX Bootcamp (SKALA)** to study Full-Stack development, aiming to bridge the gap between AI research and real-world web applications.
+
+**🔬 Research & Technical Interests:**
+- **Generative Models:** Diffusion, Flow Matching, Auto-regressive
+- **Computer Vision:** Image / Video Generation, 3D Vision
+- **Robotics:** Vision-Language Models (VLM), Vision-Language-Action (VLA)
 
 <div align="center">
   <a href="mailto:stellacustodis@gmail.com">
@@ -61,6 +66,15 @@ I am a passionate AI enthusiast and an aspiring AI specialist, focusing heavily 
 
 ---
 
+### 📝 Publications
+- **[2026.04]** J. Lee, *"Automated System Identification for Sim-to-Real Calibration of Tactile Sensors"*, 9th IEEE-RAS International Conference on Soft Robotics (**RoboSoft**), Extended Abstract Poster Session — **1st Author**
+- **[2025.12]** J. Lee and Y. Lee, *"Riemannian Manifold-Constrained Latent Embeddings for Transformer-Based Point Cloud Reconstruction"*, Winter Annual Conference of **KIBME** — **1st Author**
+- **[2025.06]** Y. Yoon, J. Lee, and Y. Lee, *"Complementary Detection of Camouflaged Soldiers Using a Diffusion Model"*, Journal of Institute of Control, Robotics and Systems (**ICROS**) — **Co-1st Author**
+- **[2024.11]** M. Kim, J. Lee, Y. Bae, N. Vasconcelos, and Y. Lee, *"Class-Balanced Methods for Enhanced Driver Drowsiness Recognition"*, Autumn Annual Conference of **IEIE**
+- **[2024.11]** J. Park, J. Lee, and Y. Lee, *"A Method for Improving Person Re-identification Using Image Restoration"*, Autumn Annual Conference of **IEIE**
+
+---
+
 ### 🏆 Awards & Honors
 - **2025** 🏅 4th place in the Segmentation Category of the *ETRI Autonomous Driving Challenge*
 - **2024** 🏆 [ETRI Minister's Award Winner of the Fashion-How S5](https://selectstar.ai/blog/notice/etri-fashion-how-competition/)
@@ -76,7 +90,8 @@ I am a passionate AI enthusiast and an aspiring AI specialist, focusing heavily 
 ---
 
 ### 📖 Timeline & Milestones
-- **2025:** Started Master's degree. Working towards my dream! | Participating in the **SK AX Bootcamp (SKALA)** for Full-Stack development. | Visited PyCon KR.
+- **2026:** Presented research at the IEEE-RAS **RoboSoft** Conference. | Transitioning focus towards practical software engineering to bridge the gap between AI research and real-world Full-Stack applications.
+- **2025:** Conducted extensive AI research in graduate school, leading to multiple 1st-author publications. | Participating in the **SK AX Bootcamp (SKALA)** for Full-Stack development. | Visited PyCon KR.
 - **2023:** Started lab life as an undergraduate research intern. | Completed NVIDIA DLI Transformer-based NLP Course.
 - **2022:** Completed NVIDIA DLI Deep Learning Fundamentals Course.
 - **2020-2022:** Served as a tank driver in the 2nd Armored Brigade (Paju).
