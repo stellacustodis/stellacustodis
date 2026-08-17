@@ -11,7 +11,7 @@ I am a passionate AI enthusiast and an aspiring AI specialist, focusing heavily 
   <a href="mailto:stellacustodis@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://https://www.linkedin.com/in/stellacustodis/">
+  <a href="https://www.linkedin.com/in/stellacustodis/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
