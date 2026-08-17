@@ -90,8 +90,8 @@ I am a passionate AI enthusiast and an aspiring AI specialist, focusing heavily 
 ---
 
 ### 📖 Timeline & Milestones
-- **2026:** Presented research at the IEEE-RAS **RoboSoft** Conference. | Transitioning focus towards practical software engineering to bridge the gap between AI research and real-world Full-Stack applications.
-- **2025:** Conducted extensive AI research in graduate school, leading to multiple 1st-author publications. | Participating in the **SK AX Bootcamp (SKALA)** for Full-Stack development. | Visited PyCon KR.
+- **2026:** Participating in the **SK AX Bootcamp (SKALA)** for Full-Stack development (Jul 14 ~ Present). | Presented research at the IEEE-RAS **RoboSoft** Conference. | Attended PyCon KR.
+- **2025:** Conducted extensive AI research in graduate school, leading to multiple 1st-author publications. | Attended PyCon KR.
 - **2023:** Started lab life as an undergraduate research intern. | Completed NVIDIA DLI Transformer-based NLP Course.
 - **2022:** Completed NVIDIA DLI Deep Learning Fundamentals Course.
 - **2020-2022:** Served as a tank driver in the 2nd Armored Brigade (Paju).
