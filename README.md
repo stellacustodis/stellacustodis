@@ -8,10 +8,10 @@
 I am a passionate AI enthusiast and an aspiring AI specialist, focusing heavily on **Python** and **Vision Generative Models**. Currently, I am also participating in the **SK AX Bootcamp (SKALA)** to study Full-Stack development. I love tackling complex problems and am constantly eager to contribute to innovative projects.
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:stellacustodis@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://https://www.linkedin.com/in/stellacustodis/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
